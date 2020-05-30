@@ -1,50 +1,34 @@
-# 01 HTML CSS Git: Code Refactor
-## Deployable Site: https://jaredp17.github.io/gt-accessibility-html/
+# Horiseon Website (Accessibility Refactor)
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+## Description 
+This is my fix for the Horiseon website. This fix is designed to meet the criteria of the GT Full-Stack Flex program homework assignment by reviewing and adding semantic improvements. 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Check out the deployable site [here](https://jaredp17.github.io/gt-accessibility-html/).
 
-> Always leave the code you are editing a little cleaner than you found it.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-## User Story
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Installation
 
-## Acceptance Criteria
+* Clone the repo
+* Open index.html in default browser. 
 
-```
-GIVEN a webpage meets accessibility standards
+<!-- ![Home](./img.png) -->
 
-WHEN I view the source code
-THEN I find semantic HTML elements
 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
 
-WHEN I view the image elements
-THEN I find accessible alt attributes
+## Credits
 
-WHEN I view the heading attributes
-THEN they fall in sequential order
+This site was designed by the curriculum team. The design was provided to me. 
 
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+Credit to the Twitter Bootstrap team for designing an awesome CSS Library. 
 
-## Review
 
-You are required to submit the following for review:
+## License
 
-* The URL of the deployed application.
+MIT
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Contributing
+
+We are not currently accepting contributors at the moment. 
